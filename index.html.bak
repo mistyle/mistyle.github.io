@@ -69,7 +69,6 @@
 <script id="hexo.configurations">
   var NexT = window.NexT || {};
   var CONFIG = {
-    root: '/',
     scheme: 'Pisces',
     version: '7.1.1',
     sidebar: {"position":"left", "width": 300,"display":"post"},
